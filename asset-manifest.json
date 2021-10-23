@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/kanye.Api/static/css/main.f465cf6d.chunk.css",
-    "main.js": "/kanye.Api/static/js/main.a6fc1e8c.chunk.js",
-    "main.js.map": "/kanye.Api/static/js/main.a6fc1e8c.chunk.js.map",
+    "main.css": "/kanye.Api/static/css/main.a5130b6f.chunk.css",
+    "main.js": "/kanye.Api/static/js/main.a7d8e25a.chunk.js",
+    "main.js.map": "/kanye.Api/static/js/main.a7d8e25a.chunk.js.map",
     "runtime-main.js": "/kanye.Api/static/js/runtime-main.dd9fab37.js",
     "runtime-main.js.map": "/kanye.Api/static/js/runtime-main.dd9fab37.js.map",
     "static/js/2.1ffcaa38.chunk.js": "/kanye.Api/static/js/2.1ffcaa38.chunk.js",
     "static/js/2.1ffcaa38.chunk.js.map": "/kanye.Api/static/js/2.1ffcaa38.chunk.js.map",
     "index.html": "/kanye.Api/index.html",
-    "static/css/main.f465cf6d.chunk.css.map": "/kanye.Api/static/css/main.f465cf6d.chunk.css.map",
+    "static/css/main.a5130b6f.chunk.css.map": "/kanye.Api/static/css/main.a5130b6f.chunk.css.map",
     "static/js/2.1ffcaa38.chunk.js.LICENSE.txt": "/kanye.Api/static/js/2.1ffcaa38.chunk.js.LICENSE.txt",
     "static/media/kanye.7b4f0710.jpg": "/kanye.Api/static/media/kanye.7b4f0710.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.dd9fab37.js",
     "static/js/2.1ffcaa38.chunk.js",
-    "static/css/main.f465cf6d.chunk.css",
-    "static/js/main.a6fc1e8c.chunk.js"
+    "static/css/main.a5130b6f.chunk.css",
+    "static/js/main.a7d8e25a.chunk.js"
   ]
 }
