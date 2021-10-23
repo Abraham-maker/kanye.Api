@@ -14,6 +14,7 @@ import kanye from "./kanye.jpg";
     4.Asegúrate que cuando tu componente esté en modo cargando muestre un indicador de cargando (un spinner o un texto), y cuando no, que muestre los datos que recibió.
 */
 
+
 function App() {
   const [isLoading, setIsLoading] = useState(true);
   const [quote, setQuote] = useState("");
