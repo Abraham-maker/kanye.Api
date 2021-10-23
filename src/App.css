@@ -156,3 +156,11 @@ footer {
     font-weight: 600;
   }
 }
+
+
+.interna {
+  /* sombra interna en caja estandar, cuando lo sea */
+  box-shadow: rgba(0, 0, 0, 0.7) 5px 5px 20px 5px inset;
+}
+
+

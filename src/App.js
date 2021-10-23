@@ -14,7 +14,6 @@ import kanye from "./kanye.jpg";
     4.Asegúrate que cuando tu componente esté en modo cargando muestre un indicador de cargando (un spinner o un texto), y cuando no, que muestre los datos que recibió.
 */
 
-
 function App() {
   const [isLoading, setIsLoading] = useState(true);
   const [quote, setQuote] = useState("");
@@ -59,7 +58,7 @@ function App() {
           <div className="card border-0">
             <img src={kanye} className="card-img-top" alt="..." />
 
-            <div className="card-body">
+            <div className="card-body interna">
               <p className="card-text">
                 {quote} <span>*</span>
               </p>
@@ -89,22 +88,38 @@ function App() {
             <div className="col-md-6 col-sm-6 col-xs-12">
               <ul className="social-icons">
                 <li>
-                  <a className="facebook" href="https://www.facebook.com/abraham.moreno.7777019" target="_blank">
+                  <a
+                    className="facebook"
+                    href="https://www.facebook.com/abraham.moreno.7777019"
+                    target="_blank"
+                  >
                     <i className="fab fa-facebook"></i>
                   </a>
                 </li>
                 <li>
-                  <a className="twitter" href="https://twitter.com/JholfrenM" target="_blank">
+                  <a
+                    className="twitter"
+                    href="https://twitter.com/JholfrenM"
+                    target="_blank"
+                  >
                     <i className="fab fa-twitter"></i>
                   </a>
                 </li>
                 <li>
-                  <a className="github" href="https://github.com/Abraham-maker" target="_blank">
+                  <a
+                    className="github"
+                    href="https://github.com/Abraham-maker"
+                    target="_blank"
+                  >
                     <i class="fab fa-github"></i>
                   </a>
                 </li>
                 <li>
-                  <a className="linkedin" href="https://www.linkedin.com/in/abraham-moreno-145b6a1b6/" target="_blank">
+                  <a
+                    className="linkedin"
+                    href="https://www.linkedin.com/in/abraham-moreno-145b6a1b6/"
+                    target="_blank"
+                  >
                     <i className="fab fa-linkedin"></i>
                   </a>
                 </li>
